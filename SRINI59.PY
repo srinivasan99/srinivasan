@@ -1,7 +1,7 @@
-
-N,P=map(int,input().split())
-SR=N*P
-if((T%2)==0):
-  print("EVEN")
+    
+S1,R2=map(int,input().split())
+I3=S1*R2
+if((I3%2)==0):
+  print("Even")
 else:
-  print("ODD")
+  print("Odd")
