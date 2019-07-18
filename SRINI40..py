@@ -1,6 +1,6 @@
-zub2=int(input())
+sri2=int(input())
 k,t=0,1
-while zub2>0:
+while sri2>0:
   print(t,end=' ')
   k,t=t,k+t
-  zub2=zub2-1
+  sri2=sri2-1
