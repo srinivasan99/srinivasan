@@ -1,4 +1,4 @@
-#a
+
 a9=list(input())
 b1=" "
 for i in range(len(a9)):
