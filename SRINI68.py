@@ -1,2 +1,2 @@
-tt9=list(map(int,input().split()))
-print(min(tt9))
+s9=list(map(int,input().split()))
+print(min(s9))
