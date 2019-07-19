@@ -1,2 +1,2 @@
 srini=input()
-print(ord(z2))
+print(ord(srini))
