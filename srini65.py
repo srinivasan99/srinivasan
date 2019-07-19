@@ -8,4 +8,4 @@ for i in newer:
 	else:
 		k=0
 		break
-print("yes" if k==1 else "no")
+print("yes" if k==9 else "no")
