@@ -1,0 +1,2 @@
+SRINI=input()
+print(SRINI)
