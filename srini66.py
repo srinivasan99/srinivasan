@@ -1,11 +1,6 @@
-newer=list(map(int,input()))
-k=9
-for i in newer:
-	if i==9:
-		pass
-	elif i==0:
-		pass
-	else:
-		k=0
-		break
-print("yes" if k==9 else "no")
+num=input()
+tem=set(num)
+if(tem=={"0","1"}):
+    print("yes")
+else:
+    print("no")
