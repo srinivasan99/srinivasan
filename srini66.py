@@ -1,6 +1,6 @@
-num=input()
-tem=set(num)
+NUMBER=input()
+tem=set(NUMBER)
 if(tem=={"0","1"}):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
