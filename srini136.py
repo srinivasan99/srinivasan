@@ -1,6 +1,6 @@
 import sys, string, math
 l = int(input())
-l = int(input())
+l1 = int(input())
 L = list(map(int,input().split()))
 dic1 = {}
 for i in L :
