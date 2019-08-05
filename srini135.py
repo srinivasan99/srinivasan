@@ -1,7 +1,7 @@
 import sys,string, math,itertools
 
-l,k = input().split()
-l,k = int(n),int(k)
+u,k = input().split()
+u,k = int(n),int(k)
 L1 = [ int(x) for x in input().split()]
 L2 = [ int(x) for x in input().split()]
 L3 = []
