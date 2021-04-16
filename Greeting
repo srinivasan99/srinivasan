@@ -1,0 +1,19 @@
+package com.example.restservice;
+public class greeting
+{
+    private final long id;
+    private final string content;
+    public greeting(long id,string content);
+    this.id=id;
+    this.content=content;
+
+
+}
+   public long get id();
+   {
+   return id;
+}  public long get content();
+{
+    return content;
+    
+}
